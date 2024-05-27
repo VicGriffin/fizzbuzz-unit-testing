@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz-unit-testing",
+  "version": "1.0.0",
+  "description": "fizzbuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "victor griffin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
